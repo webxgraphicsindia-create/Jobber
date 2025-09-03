@@ -1,0 +1,2 @@
+C:/Users/Mohit/Desktop/jobapp/android/app/.cxx/RelWithDebInfo/422j5e1j/x86/CMakeFiles/edit_cache.dir
+C:/Users/Mohit/Desktop/jobapp/android/app/.cxx/RelWithDebInfo/422j5e1j/x86/CMakeFiles/rebuild_cache.dir
