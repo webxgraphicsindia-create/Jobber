@@ -6,7 +6,7 @@ import '../../JsonModels/ProfileManager.dart';
 import '../../JsonModels/SharePreferencesdata.dart';
 
 class ApiService {
-  static const String baseUrl = "https://jobber.riverstonehydration.com/api/user"; // Base URL
+  static const String baseUrl = "https://jobber.mohitlengure.site/api/user"; // Base URL
 
   // Signup function
   static Future<Map<String, dynamic>> registerUser(
