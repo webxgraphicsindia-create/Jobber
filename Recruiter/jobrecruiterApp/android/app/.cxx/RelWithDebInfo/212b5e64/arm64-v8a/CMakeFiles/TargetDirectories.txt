@@ -1,0 +1,2 @@
+C:/Users/Mohit/Desktop/jobrecruiterApp/android/app/.cxx/RelWithDebInfo/212b5e64/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Mohit/Desktop/jobrecruiterApp/android/app/.cxx/RelWithDebInfo/212b5e64/arm64-v8a/CMakeFiles/rebuild_cache.dir

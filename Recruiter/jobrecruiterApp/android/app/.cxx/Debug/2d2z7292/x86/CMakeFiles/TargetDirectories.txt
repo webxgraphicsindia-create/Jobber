@@ -1,0 +1,2 @@
+C:/Users/Mohit/Desktop/jobrecruiterApp/android/app/.cxx/Debug/2d2z7292/x86/CMakeFiles/edit_cache.dir
+C:/Users/Mohit/Desktop/jobrecruiterApp/android/app/.cxx/Debug/2d2z7292/x86/CMakeFiles/rebuild_cache.dir
