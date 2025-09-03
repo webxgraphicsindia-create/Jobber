@@ -11,7 +11,7 @@ import '../Module/SharePreferencesdata.dart';
 
 
 class ApiService {
-  static const String baseUrl = "https://jobber.riverstonehydration.com/api/admin/employer"; // Base URL
+  static const String baseUrl = "https://jobber.mohitlengure.site/api/admin/employer"; // Base URL
 
   // Signup function
   static Future<Map<String, dynamic>> registerUser(
